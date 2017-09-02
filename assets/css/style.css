@@ -1,0 +1,22 @@
+
+article {
+    background-color: #D7BBC5;
+    border: 5px solid #B27C7C;
+}
+.footer {
+    text-align: center;
+    padding: 20px;
+}
+.sidebar {
+    background-color:#D7BBC5;
+    border: 2px solid #B27C7C;
+    margin:20px;
+}
+.navbar-brand {
+    background-color: #D7BBC5;
+    font-size: 30px;
+    padding: 10px;
+}
+form {
+   background-color:#D7BBC5 
+}
